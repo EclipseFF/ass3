@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"architecture_go/pkg/store/postgres"
+	"goPracitce/pkg/store/postgres"
 )
 
 func main() {
